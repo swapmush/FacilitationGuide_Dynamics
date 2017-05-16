@@ -69,8 +69,8 @@ We use R and R Markdown so that our materials are open source/free, transparent 
 ```
 #### Lesson Overview - Hexagon Molecules
 * Stand-alone sentence, one sentence summary: NEED ONE SENTENCE HERE
-* Skills: Increase stakeholders’ capacity for feedback thinking for the relationships amongst regards to service loads (Veteran’s need for EBPs) and mental health resources (scheduling, # of providers, types of services offered, etc.)
-* PSD uses specific tool, a model, to depict the dynamics that are d projects the dynamics of a system into a model to inform clinical level decisions . 
+* Skills: Increase stakeholders’ capacity for feedback thinking for the relationships amongst service loads (Veteran’s need for EBPs) and mental health resources (scheduling, # of providers, types of services offered, etc.)
+* PSD uses specific tool, a model, to depict the dynamics of a system into a model to inform clinical level decisions . 
 
 ```{r}
 ```
