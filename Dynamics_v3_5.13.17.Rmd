@@ -1,0 +1,83 @@
+---
+title: "Participatory Systems Dynamics Facilitation Guide: Dynamics"
+author: "Swap Mushiana, M.S."
+date: "May 13, 2017"
+output:
+  html_document: default
+  ioslides_presentation: default
+  mode: self-contained
+  pdf_document: default
+  slidy_presentation: default
+  word_document: default
+---
+
+### Participatory System Dynamics Resources in R Markdown 
+
+This is an R Markdown presentation for the "Ratio Exercise" learning loop exercise from the participatory learning session of the Team PSD Facilitation Guide. 
+
+Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. 
+
+We use R and R Markdown so that our materials are open source/free, transparent for collaboration, reproducible by others and can be used repeatedly over time for local sustainability or for adaptation to another local health care system.
+
+### Draft: Dynamics One-Pager
+##### Last edited: 5.13.17
+```{r}
+```
+#### Key Idea(s) -  Lesson Hexagon 
+* An enhanced understanding of dynamics will empower stakeholders to make informed change-decisions within their system. 
+* Increase stakeholder ability to use feedback thinking to link service loads to mental health resources in VHA.
+* How ratio effects positive and negative feedback loops of a system over time. 
+```{r}
+```
+#### Definitions 
+* **System Behavior – Oscillation** 
+    + The “dated” information to make decisions or control a target is likely to miss or overshoot its goal
+    + Dated: control action is not based on *current* state of system, but rather a *previous state or value.* 
+
+* **Static Observation** -- DEFINITION NEEDED
+
+* **Dynamic Observation over time- Key to understanding drivers**
+    + *Endogenous variables* that are influenced by other variables in a system 
+    + *Exogenous variables* in the model that are strictly causes of other variables and not influenced by other variables in a model 
+    + *Dynamic Complexity* refers to the Number of dynamic behavior patterns that a system can produce (e.g., oscillations, overshoot and collapse, etc.) 
+    
+ * **Non-linear System Behavior - Exponential Growth**
+    + Growth can occur suddenly after a long period of little or no change.Example: folding a peice of paper 36 plus times. 
+   
+ * **Non-linear System Behavior - Steady State**
+    + *Equilibrium point* that attracts or repels the state of the system regardless of the initial state.
+    + Commonly held belief during steady state, *“The clinic has reached its capacity for improvement.”*
+
+
+```{r}
+```
+#### Dialogue - Hexagon 
+* What variables within a system 
+* How do those variables behave or change over time?
+* What tool should we use to explain the dynamics that we believe are important to the system? (A model  perhaps???)
+
+```{r}
+
+```
+#### Learning Loop (Practice/Exercise)
+* Mention Alexandra’s “zoom-in” and “zoom-out” skill to look at how static observation can miss important dynamic observations such as oscillation and nonlinear system behaviors.
+* Touch on Myra’s skill and build off the exercise she introduces with casual loops. 
+* **Ratio Exercise**
+    + Collaborate with stakeholders to map ratios (or other language used) with + or – feedback loops. 
+    + Prompt stakeholders to tell “feedback stories” to a “what if” scenarios proposed by facilitator. 
+```{r}
+```
+#### Lesson Overview - Hexagon Molecules
+* Stand-alone sentence, one sentence summary: NEED ONE SENTENCE HERE
+* Skills: Increase stakeholders’ capacity for feedback thinking for the relationships amongst service loads (Veteran’s need for EBPs) and mental health resources (scheduling, # of providers, types of services offered, etc.)
+* PSD uses specific tool, a model, to depict the dynamics of a system into a model to inform clinical level decisions . 
+
+```{r}
+```
+#### Lesson Complete - Hexagon Badge
+```{r}
+```
+#### Resources 
+1. Scriptapedia 4.0.6 (2013). Original authors are David F. Andersen and George P. Richardson.
+2. http://www.systemdynamics.org/DL-IntroSysDyn/exgr.htm 
+
