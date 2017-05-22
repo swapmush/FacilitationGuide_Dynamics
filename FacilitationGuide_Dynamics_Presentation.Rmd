@@ -1,0 +1,58 @@
+---
+title: "NC-PTSD Staff Meeting Presentation: *Understanding Dynamics to Improve Healthcare Delivery*"
+author: "Swap Mushiana, M.S."
+date: "5/22/2017"
+output: slidy_presentation
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Traffic 
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_traffic_924177_003F72.svg width="720" height="540"> 
+```{r}
+
+```
+### Positive Feedback
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_feedback_651874_003F72.svg width="720" height="540">
+```{r}
+
+```
+### Negative Feedback
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_feedback_651876_003F72.svg width="720" height="540">
+```{r}
+
+```
+### Static Observation 
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_interactive-bar-chart_151004_003F72.svg width="720" height="540">
+```{r}
+
+```
+### Dynamic Observation
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_line-chart_544281_003F72.svg width="720" height="540">
+```{r}
+
+```
+### Nonlinear System Behavior- Exponential Growth
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_graph_87995_003F72.svg width="720" height="540">
+```{r}
+
+```
+### Nonlinear System Behavior- Steady State
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_graph_88002_003F72.svg width="720" height="540">
+
+```{r}
+
+```
+### System Behavior– Oscillation
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_sine-wave_385866_003F72.svg width="720" height="540">
+```{r}
+
+```
+### Role of Delays - Time 
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_redo_993290_003F72.svg width="720" height="540">
+```{r}
+
+```
+### Unexpected Drivers
+
