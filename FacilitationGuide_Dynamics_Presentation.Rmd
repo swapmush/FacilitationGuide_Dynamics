@@ -38,7 +38,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 ### Nonlinear System Behavior- Exponential Growth
 <img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_graph_87995_003F72.svg width="720" height="540">
-
 ```{r}
 
 ```
