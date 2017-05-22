@@ -4,7 +4,7 @@ author: "Swap Mushiana, M.S."
 date: "5/22/2017"
 output: slidy_presentation
 ---
-```{r setup, include=FALSE}
+```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 ### Traffic 
