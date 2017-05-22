@@ -1,5 +1,5 @@
 ---
-title: "Participatory Systems Dynamics Facilitation Guide: Dynamics"
+title: 'Participatory Systems Dynamics Facilitation Guide: Dynamics'
 author: "Swap Mushiana, M.S."
 date: "May 13, 2017"
 output:
@@ -69,8 +69,8 @@ We use R and R Markdown so that our materials are open source/free, transparent 
 ```
 #### Lesson Overview - Hexagon Molecules
 * Stand-alone sentence, one sentence summary: NEED ONE SENTENCE HERE
-* Skills: Increase stakeholders’ capacity for feedback thinking for the relationships amongst service loads (Veteran’s need for EBPs) and mental health resources (scheduling, # of providers, types of services offered, etc.)
-* PSD uses specific tool, a model, to depict the dynamics of a system into a model to inform clinical level decisions . 
+* Skills: Increase stakeholders’ capacity for feedback thinking for the relationships amongst regards to service loads (Veteran’s need for EBPs) and mental health resources (scheduling, # of providers, types of services offered, etc.)
+* PSD uses specific tool, a model, to depict the dynamics that are d projects the dynamics of a system into a model to inform clinical level decisions . 
 
 ```{r}
 ```
@@ -80,4 +80,71 @@ We use R and R Markdown so that our materials are open source/free, transparent 
 #### Resources 
 1. Scriptapedia 4.0.6 (2013). Original authors are David F. Andersen and George P. Richardson.
 2. http://www.systemdynamics.org/DL-IntroSysDyn/exgr.htm 
+```{r}
+
+```
+## NC-PTSD Staff Meeting Presentation
+### *Understanding Dynamics to Improve Healthcare Delivery*
+```{r}
+
+```
+### Traffic 
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_traffic_924177_003F72.svg width="720" height="540">
+```{r}
+
+```
+### Positive Feedback
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_feedback_651874_003F72.svg width="720" height="540">
+
+```{r}
+
+```
+### Negative Feedback
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_feedback_651876_003F72.svg width="720" height="540">
+
+```{r}
+
+```
+### Static Observation 
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_interactive-bar-chart_151004_003F72.svg width="720" height="540">
+```{r}
+
+```
+### Dynamic Observation
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_line-chart_544281_003F72.svg width="720" height="540">
+```{r}
+
+```
+### Nonlinear System Behavior- Exponential Growth
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_graph_87995_003F72.svg width="720" height="540">
+
+```{r}
+
+```
+### Nonlinear System Behavior- Steady State
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_graph_88002_003F72.svg width="720" height="540">
+
+```{r}
+
+```
+#### System Behavior– Oscillation
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_sine-wave_385866_003F72.svg width="720" height="540">
+
+
+```{r}
+
+```
+### Role of Delays - Time 
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_redo_993290_003F72.svg width="720" height="540">
+
+```{r}
+
+```
+### Unexpected Drivers
+
+
+```{r}
+
+```
+
 
