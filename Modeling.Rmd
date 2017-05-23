@@ -1,0 +1,45 @@
+---
+title: "Facilitation Guide Modeling Session"
+author: "Melissa London"
+date: "05/23/17"
+output:
+  pdf_document: default
+  mode: self-contained
+  github_document: default
+---
+
+## Session: Modeling
+
+### Key Idea Icon
+* Understand how model simulations provide a means to make mental models more explicit and test assumptions, particularly surrounding implementation plans.
+* Assist stakeholders in evaluating implementation plans by using model simulation to visualize dynamic relationships 
+* Increase stakeholder EBP-specific capacity by understanding the impact of system factors, such as intake referral rate, on the level of state measures, such as amount of patients pending intake scheduling.
+
+
+### Definitions- Book Icon
+
+* Static Observation/Stock 
+    +  The level or prevalence of a variables at any given time (e.g., number of patients on any given day pending any service)
+* Dynamic Observation
+    +  Refer to Swap’s definitions
+* Flows
+     + Increase or decrease a stock over time (e.g., rate at which patients are being referred)
+* Feedback
+     +  Information about the state of a system, usually after an action that caused some changes
+     +  Positive feedback loop - AKA Reinforcing loop- variables reinforce each other leading to increased growth or decline
+     +  Negative feedback loop- Variables counteract, creating a balanced state
+
+### Dialogue- Hexagon Icon
+
+* Discuss Icebreaker Exercises- Traffic Jam/Flow 
+* Briefly describe relate this to stocks and flows
+* Data dialogue- what variables are currently measured? What factors are driving the rates of those variables?
+
+### Learning Loop (Practice/ Exercise)
+
+* Group model building exercise (Use current data, create model? Show a model?)
+    
+## Hexagon Molecule (Lesson Overview) "Putting it Together"
+
+* The main role of simulation is to test hypotheses about the relationship between the system structure and system behavior using local data and local expertise.
+
